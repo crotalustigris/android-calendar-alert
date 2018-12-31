@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY AppName "Android Calendar Alert">]>
+<resources>
+    <string name="app_name">"&AppName;"</string>
+    <string name="service_label">AndroidCalendarAlertService</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to Main Activity -->
+    <string name="main_act_alerts_prefix">Alerts Are</string>
+    <string name="main_act_enabled">ENABLED</string>
+    <string name="main_act_disabled">DISABLED</string>
+    <string name="main_act_button_enable_alerts">ENABLE Alerts</string>
+    <string name="main_act_button_disable_alerts">DISABLE Alerts</string>
+
+    <!-- Strings related to the Alert Dialog -->
+    <string name="notification_listener_service">"Android Calendar Alert Service"</string>
+    <string name="notification_listener_service_explanation">"This app requires permission to receive notifications.\n\n"+
+        "To enable it, click YES, then on the next screen, locate '&AppName;\'."+
+        "Then turn the switch to its right to the on position.For the app. \n\n Enable it now?"</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="notification_listener_service_again_explanation">If you do not enable \'&AppName;\', this app cannot function.\n\n Enable it now?</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+    <!-- Preference Strings -->
+    <string name="pref_file_name">MainPrefs</string>
+    <string name="pref_is_enabled">isEnabled</string>
+    <string name="check_reminders">Check Reminders</string>
+    <string name="r_string_test">Test</string>
+    <string name="action_key">Set in MainActivity</string>
+    <string name="directive_key">Directive Key</string>
+
+</resources>

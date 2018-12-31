@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="UnusedResources">
+        <ignore path="src/main/res/raw/appointment.mp3" />
+        <ignore path="src/main/res/raw/appointment.mp3" />
+        <ignore path="src/main/res/raw/appointment.mp3" />
+        <ignore path="src/main/res/raw/appointment.mp3" />
+        <ignore path="src/main/res/raw/ring_ring.mp3" />
+        <ignore path="src/main/res/raw/test_alert.mp3" />
+        <ignore path="src/main/res/raw/test_reminder_reminder.mp3" />
+    </issue>
+</lint>
