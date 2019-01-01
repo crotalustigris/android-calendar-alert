@@ -3,7 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.github.crotalustigris.cal_alert"
     tools:ignore="GoogleAppIndexingWarning">
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.READ_CALENDAR" /> <!-- === jrm -->
     <application
         android:allowBackup="true"
